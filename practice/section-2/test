@@ -1,0 +1,11 @@
+[ Object({ name: 'a', summary: 3 }),
+  Object({ name: 'e', summary: 7 }), 
+  Object({ name: 'h', summary: 11 }), 
+  Object({ name: 't', summary: 19 }),
+  Object({ name: 'f', summary: 9 }),
+  Object({ name: 'c', summary: 8 }),
+  Object({ name: 'g', summary: 7 }), 
+  Object({ name: 'b', summary: 6 }), 
+  Object({ name: 'd', summary: 5 }) ]
+
+  [ Object({ key: 'a', count: 3 }), Object({ key: 'e', count: 7 }), Object({ key: 'h', count: 11 }), Object({ key: 't', count: 19 }), Object({ key: 'f', count: 9 }), Object({ key: 'c', count: 8 }), Object({ key: 'g', count: 7 }), Object({ key: 'b', count: 6 }), Object({ key: 'd', count: 5 }) ] 
